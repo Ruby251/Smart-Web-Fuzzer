@@ -1,4 +1,4 @@
-# Smart-Web-Fuzzer
+# Smart-Web-Fuzzer (BETA)
 Heuristic web fuzzer with anomaly detection for SQLi, XSS and LFI vulnerabilities.
 # Smart Web Fuzzer
 
