@@ -32,7 +32,7 @@ Heuristic web application fuzzer with machine learning-based anomaly detection f
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/smart-web-fuzzer.git
+git clone https://github.com/Ruby251/smart-web-fuzzer.git
 cd smart-web-fuzzer
 pip install -r requirements.txt
-python smart_fuzzer.py
+python3 or python smart_fuzzer.py
